@@ -1,4 +1,16 @@
 # Minecraft Server Rules/Information
+This minecraft server runs on version 1.18 and survival. The difficulty is normal.
+Access to this server is limited (whitelist). The seed will **not** be revealed.  
+Breaking the following rules will be punished. The severity of the punishment depends on the severity of your action.
+The admins (see list below) have the final say in the punishment. 
+If you have suggestions or complaints, feel free to contact one of the admins.
+
+Admins:  
+* Hulka (DC: Bigboy#6823, MC: )
+* Kalchi (DC: Thinker#0001, MC: TheKalchi)
+* Markus (DC: Laffey#3549, MC: )
+
+The admins reserve the rights to change or adapt these rules at all time.
 
 ## 1. Basic Rules
 ### 1.1 Basic Principles
@@ -58,3 +70,10 @@ players
 These following minecraft gamerules will be changed.
 
 4.1 playersSleepingPercentage = 30
+
+## 5. Discord
+The Discord server will be used to communicate important information.
+
+Important administrative information will be posted in #minecraft-server-118.  
+The main chat about the server will be #PLACEHOLDER.  
+Public coordinates for farms/villages/etc. can be shared in #PLACEHOLDER.
