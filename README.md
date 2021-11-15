@@ -1,4 +1,4 @@
-# Minecraft Server Rules
+# Minecraft Server Rules/Information
 
 ## 1. Basic Rules
 ### 1.1 Basic Principles
