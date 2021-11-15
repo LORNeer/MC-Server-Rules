@@ -55,6 +55,6 @@ players
 ## 3. Village "RP"
 
 ## 4. Minecraft Gamerules
-These following minecraft properties/gamerules will be changed.
+These following minecraft gamerules will be changed.
 
 4.1 playersSleepingPercentage = 30
