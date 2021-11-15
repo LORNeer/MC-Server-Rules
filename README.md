@@ -31,7 +31,7 @@ Any damage done by those mobs to other players belongings need to be fixed by th
 
 ### 1.4 The End
 The first time entering the End and the first fight against the Ender Dragon is going to be a planned community event.
-This will most likely happen within the first week of server launch (minimum wait time 4 days after launch) at a time
+This will most likely happen within the first week of server launch (minimum wait time 3 days after launch) at a time
 where most players (that want to participate) have time (most likely the weekend). The date will be set as a discord
 event in the discord channel a few days before. Finding the stronghold and filling the portal is of course
 allowed beforehand.
