@@ -27,7 +27,7 @@ The admins reserve the rights to change or adapt these rules at all time.
 The world spawn will be used for community/shared buildings.  
 1.2.2 Players that are not interested in working/playing together
 should build their homes with reasonable distance from one another  
-1.2.3 Trees do not need to be replanted, but trees have to be completely mined
+1.2.3 Trees do not need to be replanted, but trees have to be completely mined  
 1.2.4 Creeper holes have to be filled  
 1.2.5 Farms that obviously belong to a player need to be replanted  
 1.2.6 Pets that obviously belong to a player are not to be killed  
