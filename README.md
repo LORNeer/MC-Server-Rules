@@ -8,7 +8,7 @@ If you have suggestions or complaints, feel free to contact one of the admins.
 Admins:  
 * Hulka (DC: Bigboy#6823, MC: )
 * Kalchi (DC: Thinker#0001, MC: TheKalchi)
-* Markus (DC: Laffey#3549, MC: )
+* Markus (DC: Laffey#3549, MC: Makmex)
 
 The admins reserve the rights to change or adapt these rules at all time.
 
