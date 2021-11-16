@@ -21,6 +21,7 @@ Small collection of things that we might or might not use to optimize the fabric
 
 
 #Configurations
+
 ## [server.properties](https://minecraft.fandom.com/wiki/Server.properties)
 |Config|Value|Description|
 |---|---|---|
