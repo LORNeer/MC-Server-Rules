@@ -27,6 +27,7 @@ Small collection of things that we might or might not use to optimize the fabric
 |view-distance|6 (or less)|Sets the amount of world data the server sends the client, measured in chunks in each direction of the player.|
 |max-tick-time|-1|The maximum number of milliseconds a single tick may take before the server watchdog stops the server. -1 disables this watchdog alltogether.|
 |snooper-enabled|false|Sets whether the server sends snoop data regularly to http://snoop.minecraft.net.|
+|playersSleepingPercentage|30|Controls what percentage of players must sleep to skip the night.|
 
 ## [world/carpet.conf](https://gist.github.com/skyrising/cea2495437afea0cc3af2bb11d6a1856)
 This is for the Carpet Mod, if it is used.
