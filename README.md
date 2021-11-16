@@ -77,3 +77,7 @@ The Discord server will be used to communicate important information.
 Important administrative information will be posted in #minecraft-server-118.  
 The main chat about the server will be #PLACEHOLDER.  
 Public coordinates for farms/villages/etc. can be shared in #PLACEHOLDER.
+
+## 6. Server/Client Modifications
+###6.1 Server Modifications/Plugins
+###6.2 Client Modifications
