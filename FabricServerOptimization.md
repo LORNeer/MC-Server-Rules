@@ -1,7 +1,7 @@
 # Fabric Server Optimization
 Small collection of things that we might or might not use to optimize the fabric server.
 
-#Mods
+# Mods
 |Mod|Release for 1.17|Current Version|Description|
 |---|---|---|---|
 |[Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium/files/all)|08.06.2021 (beta), 16.06.2021 (stable)|G: 1.17.1, M: 0.7.5|A mod designed to drastically improve the general performance of Minecraft without breaking things.|
@@ -18,7 +18,6 @@ Small collection of things that we might or might not use to optimize the fabric
 |[Chunky Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator)|08.06.2021 (1.2.86)|G: 1.17.1, M: 1.2.124|A Fabric mod while pre-generates chunks, quickly and efficiently.|
 |[Spark](https://ci.lucko.me/job/spark/)|   |   |A performance profiling server-side mod.|
 |[C2ME (EXPERIMENTAL)](https://github.com/ishlandbukkit/C2ME-fabric/releases)|20.06.2021 (0.2.0+alpha.1)|G:1.18, M: 0.2.0+alpha.5)|A Fabric mod designed to improve the performance of chunk generation, I/O, and loading. This is done by taking advantage of multiple CPU cores in parallel. (This mod is experimental and you should only use it at your own risk)|
-
 
 # Configurations
 ## [server.properties](https://minecraft.fandom.com/wiki/Server.properties)
@@ -47,7 +46,7 @@ This is for the Carpet Mod, if it is used.
 |maxEntityCollisions|Customizable maximal entity collision limits, 0 for no limits|1|
 |optimizedTNT|true|TNT causes less lag when exploding in the same spot and in liquids|
 
-#Java Optimization
+# Java Optimization
 ## Java version & JRE
 Preferably we use [GraalVM](https://www.oracle.com/downloads/graalvm-downloads.html?selected_tab=1) as our Java
 runtime environment (with the latest java version available). It's the fastest JRE available right now.  
