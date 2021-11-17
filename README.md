@@ -79,5 +79,5 @@ The main chat about the server will be #PLACEHOLDER.
 Public coordinates for farms/villages/etc. can be shared in #PLACEHOLDER.
 
 ## 6. Server/Client Modifications
-###6.1 Server Modifications/Plugins
-###6.2 Client Modifications
+### 6.1 Server Modifications/Plugins
+### 6.2 Client Modifications
