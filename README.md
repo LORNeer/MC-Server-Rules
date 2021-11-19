@@ -60,14 +60,38 @@ players
 1.5.2 There is now maximum build height or a limitation to the size of a building as long as rule 1.5.1 is not broken  
 1.5.3 Unfinished buildings that have not been continued for a while (and are ugly) will be removed after a warning
 
-
 ## 2. PVP
+2.1 PVP is allowed as long as it doesnt break any of the following rules  
+2.2 Do not kill people without reason (stealing their resources after they were mining is **not** a reason)  
+2.3 Do not kill players that are afk-farming  
+2.3 Rules of war (see rule section 3) may modify these rules in any way
 
+## 3. Village/Faction "RP"
+There will be a very basic RP system. The purpose of this is making the server a bit more interesting.
+You will have the possibility of creating teams via the Minecraft teams feature.  
+3.1 Everyone can create Teams and everyone can join teams out of their free will. You have to ask admins to do that
+for you since the command is restricted. Teams can then use the ``/teammsg`` command to chat within the team.
+For further infos on how to create teams please see below.  
+3.2 Teams with more than 5 members (or teams approved by the council) can send a representative to the "council"  
+3.3 The council is used to solve issues that may arise in the world (that do not need the attention of the admins)
+3.4 Conflict between teams should preferably solved by the teams  
+3.5 Teams can start wars between each other, the rules of war will be set by the team (almost everything is possible,
+you can modify the rules of war **between** the factions that fight however you want).
+Please inform the admins of ongoing wars and rule changes in those wars.  
+3.6 Other teams may join the war *if* a team currently in the war wants them to. The admins also have to be
+informed of this.  
+3.7 Uninvolved factions **are not** to be harmed in any way
 
-## 3. Village "RP"
+To create a team you need the following things:
+* a *unique* team name (this is not the name that is shown in chat)
+* the team name you want to show in chat
+* the team color (if needed)
+* the team prefix (if needed)
+* a designated leader of the team (this person can contact the admins to add new members). This leader may
+  change at any point if so decided by the team
 
 ## 4. Minecraft Gamerules
-These following minecraft gamerules will be changed.
+These following minecraft properties/gamerules will be changed.
 
 4.1 playersSleepingPercentage = 30
 

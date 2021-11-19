@@ -48,9 +48,7 @@ players
 1.5.2 There is now maximum build height or a limitation to the size of a building as long as rule 1.5.1 is not broken  
 1.5.3 Unfinished buildings that have not been continued for a while (and are ugly) will be removed after a warning
 
-
 ## 2. PVP
-
 
 ## 3. Village "RP"
 
