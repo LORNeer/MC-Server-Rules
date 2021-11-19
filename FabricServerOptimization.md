@@ -11,7 +11,7 @@ Small collection of things that we might or might not use to optimize the fabric
 |[FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric)|21.06.2021 (beta), 22.08.2021 (stable)|G: 1.17.1, M: 3.0.3 (stable) / 3.1.0 (beta)|A mod that reduces the memory usage of Minecraft in a few different ways.|
 |[RecipeCache](https://www.curseforge.com/minecraft/mc-mods/recipe-cache)|11.06.2021 (0.2.0)|G: 1.17.1, M: 0.2.1|A mod that caches recipe lookup for crafting and furnaces to lessen server lag caused by crafting stacks of items and large amounts of furnaces ticking.|
 |[Krypton](https://github.com/astei/krypton/releases)|08.06.2021 (0.1.3)|G: 1.17.1, M: 0.1.4|A mod that optimizes the Minecraft networking stack and entity tracker.|
-|[LazyDFU](https://modrinth.com/mod/lazydfu)|19.02.2021 (0.1.2)|G: 1.17.1, M: 0.1.2|A mod that makes Minecraft DataFixerUpper initializatiion lazy. (Faster server start-up time)|
+|[LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu)|19.02.2021 (0.1.2)|G: 1.17.1, M: 0.1.2|A mod that makes Minecraft DataFixerUpper initializatiion lazy. (Faster server start-up time)|
 |[Carpet Mod](https://www.curseforge.com/minecraft/mc-mods/carpet/files/all)|29.06.2021 (1.4.41)|G: 1.18, M: 1.4.53|A mod for vanilla Minecraft that allows you to take full control of what matters from a technical perspective of the game.|
 |[Carpet Extra](https://www.curseforge.com/minecraft/mc-mods/carpet-extra/files/all)|17.02.2021 (1.4.30)|G: 1.18, M: 1.4.51|A mod that adds extra features to the Carpet Mod.|
 |[Carpet TIS](https://github.com/TISUnion/Carpet-TIS-Addition/releases)|28.03.2021 (1.20)|G: 1.18, M: 1.25.0|A Carpet mod extension, a collection of carpet mod style useful tools and interesting features.|
