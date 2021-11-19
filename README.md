@@ -68,10 +68,11 @@ players
 
 ## 3. Village/Faction "RP"
 There will be a very basic RP system. The purpose of this is making the server a bit more interesting.
-You will have the possibility of creating teams via the Minecraft teams feature.  
-3.1 Everyone can create Teams and everyone can join teams out of their free will. You have to ask admins to do that
-for you since the command is restricted. Teams can then use the ``/teammsg`` command to chat within the team.
-For further infos on how to create teams please see below.  
+You will have the possibility of creating teams via the Minecraft teams feature.
+
+3.1 Everyone can create Teams and everyone can join teams out of their free will.
+Teams can then use the ``/teammsg`` command to chat within the team.
+For further infos on how to create and join teams please look at the information below.  
 3.2 Teams with more than 5 members (or teams approved by the council) can send a representative to the "council"  
 3.3 The council is used to solve issues that may arise in the world (that do not need the attention of the admins)
 3.4 Conflict between teams should preferably solved by the teams  
