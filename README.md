@@ -93,18 +93,13 @@ To create a team you need the following things:
   change at any point if so decided by the team
 * other people who can add new members (if needed)
 
-## 4. Minecraft Gamerules
-These following minecraft properties/gamerules will be changed.
-
-4.1 playersSleepingPercentage = 30
-
-## 5. Discord
+## 4. Discord
 The Discord server will be used to communicate important information.
 
 Important administrative information will be posted in #minecraft-server-118.  
 The main chat about the server will be #PLACEHOLDER.  
 Public coordinates for farms/villages/etc. can be shared in #PLACEHOLDER.
 
-## 6. Server/Client Modifications
-### 6.1 Server Modifications/Plugins
-### 6.2 Client Modifications
+## 5. Server/Client Modifications
+### 5.1 Server Modifications/Plugins
+### 5.2 Client Modifications
