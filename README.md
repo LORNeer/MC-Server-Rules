@@ -91,7 +91,7 @@ To create a team you need the following things:
 * the team prefix (if needed)
 * a designated leader of the team (this person can contact the admins to add new members). This leader may
   change at any point if so decided by the team
-* other people who can add new members
+* other people who can add new members (if needed)
 
 ## 4. Minecraft Gamerules
 These following minecraft properties/gamerules will be changed.
