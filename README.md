@@ -97,8 +97,11 @@ To create a team you need the following things:
 The Discord server will be used to communicate important information.
 
 Important administrative information will be posted in #minecraft-server-118.  
-The main chat about the server will be #PLACEHOLDER.  
-Public coordinates for farms/villages/etc. can be shared in #PLACEHOLDER.
+Information about current factions and ongoing wars can be found in #minecraft-teams.  
+The main chat about the server will be #minecraft-chat.  
+Public coordinates for farms/villages/etc. can be shared in #minecraft-coordinates.
+The #minecraft-srv-chat channel is a channel used to chat with people on the minecraft server. Every
+message in minecraft is logged there and every message from discord is sent in the minecraft chat.
 
 ## 5. Server/Client Modifications
 ### 5.1 Server Modifications/Plugins
