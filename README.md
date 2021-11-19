@@ -73,7 +73,8 @@ You will have the possibility of creating teams via the Minecraft teams feature.
 3.1 Everyone can create Teams and everyone can join teams out of their free will.
 Teams can then use the ``/teammsg`` command to chat within the team.
 For further infos on how to create and join teams please look at the information below.  
-3.2 Teams with more than 5 members (or teams approved by the council) can send a representative to the "council"  
+3.2 Teams with more than 5 members (or teams approved by the council) can send a representative to the "council"
+(who this representative is has to be reported to the admins beforehand)  
 3.3 The council is used to solve issues that may arise in the world (that do not need the attention of the admins)
 3.4 Conflict between teams should preferably solved by the teams  
 3.5 Teams can start wars between each other, the rules of war will be set by the team (almost everything is possible,
@@ -90,6 +91,7 @@ To create a team you need the following things:
 * the team prefix (if needed)
 * a designated leader of the team (this person can contact the admins to add new members). This leader may
   change at any point if so decided by the team
+* other people who can add new members
 
 ## 4. Minecraft Gamerules
 These following minecraft properties/gamerules will be changed.
