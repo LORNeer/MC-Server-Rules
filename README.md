@@ -97,7 +97,7 @@ To create a team you need the following things:
 ## 4. Discord
 The Discord server will be used to communicate important information.
 
-Important administrative information will be posted in #minecraft-server-118.  
+Important administrative information and the rules will be posted in #minecraft-server-118.  
 Information about current factions and ongoing wars can be found in #minecraft-teams.  
 The main chat about the server will be #minecraft-chat.  
 Public coordinates for farms/villages/etc. can be shared in #minecraft-coordinates.
