@@ -85,10 +85,11 @@ informed of this.
 3.7 Uninvolved factions **are not** to be harmed in any way
 
 To create a team you need the following things:
+* at least two members in total
 * a *unique* team name (this is not the name that is shown in chat)
 * the team name you want to show in chat
-* the team color (if needed)
 * the team prefix (if needed)
+* the color you want the prefix to have 
 * a designated leader of the team (this person can contact the admins to add new members). This leader may
   change at any point if so decided by the team
 * other people who can add new members (if needed)
