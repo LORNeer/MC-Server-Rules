@@ -82,7 +82,7 @@ you can modify the rules of war **between** the factions that fight however you 
 Please inform the admins of ongoing wars and rule changes in those wars.  
 3.6 Other teams may join the war *if* a team currently in the war wants them to. The admins also have to be
 informed of this.  
-3.7 Uninvolved factions **are not** to be harmed in any way
+3.7 Uninvolved factions **are not** to be harmed in any way while a war is active
 
 To create a team you need the following things:
 * at least two members in total
