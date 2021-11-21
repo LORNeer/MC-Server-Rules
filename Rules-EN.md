@@ -12,8 +12,8 @@ Punishments can be changed on a case by case basis or even inbetween if need be.
 The admins (see list below) have the final say in giving out punishments.
 
 Admins:
-* Hulka (DC: Bigboy#6823, MC: **Bigboy221100** / responsible for serverside problems)
-* Kalchi (DC: Thinker#0001, MC: **TheKalchi** / responsible for everything inbetween)
+* Hulka (DC: Bigboy#6823, MC: **Bigboy221100**)
+* Kalchi (DC: Thinker#0001, MC: **TheKalchi**)
 * Markus (DC: Laffey#3549, MC: **Makmex** / whore)
 
 If you have suggestions or complaints, feel free to contact one of the admins.
@@ -22,14 +22,15 @@ Purposly finding and maliciously using loopholes in the rules is a punishable of
 The admins reserve their right to change or adapt these rules at all time and interpret them as needed.
 
 ## 1 Basic Principles
-1.1 Have common sense.  
-1.2 Treat others with respect.  
-1.3 No Cheating. (about modded clients see rules section 8)  
-1.4 No Griefing.  
-1.5 No Spamming.  
-1.6 Anarchial behaviour is not permitted.  
-1.7 **One** account per Player.  
-1.8 Mild trolling is welcome.
+1.1 Have common sense  
+1.2 Treat others with respect  
+1.3 No Cheating  
+1.4 No Griefing 
+1.5 No Spamming  
+1.6 No stealing (random chests in the wild dont apply)
+1.7 No Bug abuse (Mojang intended bugs are allowed)  
+1.8 **One** account per Player  
+1.9 Mild trolling is welcome
 
 ## 2 Behavior in the World
 2.1 Building private buildings on the world spawn (300 block radius) is not allowed.  
@@ -46,6 +47,7 @@ Any damage done by those mobs to other players belongings need to be fixed by th
 ## 3 Farms/Redstone Contraptions
 3.1 All Farms/Redstone Contraptions are allowed, as long as they are not forbidden by the following rules.  
 3.2 Farms/Redstone Contraptions that lead to severe lags or destroy the playing experience of other players are forbidden.  
+This include chunk banners and lag machines.  
 3.3 Farms/Redstone Contraptions that need a lot of performance and/or are used for special items should  
 (if possible) be built for/with the community.  
 3.4 AFK Farms/Redstone Contraptions are allowed, as long as rules 1.6 and 3.1 are not broken.
@@ -70,30 +72,36 @@ end gateways appear.
 members of the event.
 
 ## 6 PVP
-6.1 PVP is allowed as long as it doesnt break any of the following rules.
-6.2 We are civilised people, so act like it. 
+6.1 PVP is allowed as long as it doesnt break any of the following rules.  
+6.2 We are civilised people, so act like it.  
 6.3 Do not kill people without reason. (wanting to steal resources of someone who was mining is **not** a reason)  
 6.4 Do not kill players that are afk-farming.  
-6.5 Villages/Homes are safe areas until otherwise. A fight that has been started will not stop if either of the participants enter a safe area.
-6.6 Rules of war (see rule section 7) may modify these rules in any way.
+6.5 Villages/Homes are safe areas until otherwise. A fight that has been started will not stop if either of the participants enter a safe area.  
+6.6 Rules of war (see rule section 7.2) may modify these rules in any way.
 
 ## 7 Village/Faction "RP"
 There will be a very basic RP system. The purpose of this is making the server a bit more interesting.  
 You will have the possibility of creating teams via the Minecraft teams feature.
 
-7.1 Everyone can create Teams and everyone can join teams out of their free will.  
+### 7.1 General System
+7.1.1 Everyone can create Teams and everyone can join teams out of their free will.  
 Teams can then use the ``/teammsg`` command to chat within the team.  
 For further infos on how to create and join teams please look at the information below.  
-7.2 Teams with more than 5 members (or teams approved by the council) can send a representative to the "council".  
+7.1.2 Teams with more than 5 members (or teams approved by the council) can send a representative to the "council".  
 (who this representative is has to be reported to the admins beforehand)  
-7.3 The council is used to solve issues that may arise in the world. (that do not need the attention of the admins)  
-7.4 Conflict between teams should preferably solved by the teams.  
-7.5 Teams can start wars between each other, the rules of war will be set by the team (almost everything is possible,  
-you can modify the rules of war **between** the factions that fight however you want).  
-Please inform the admins of ongoing wars and rule changes in those wars.  
-7.6 Other teams may join the war *if* a team currently in the war wants them to. The admins also have to be  
-informed of this.  
-7.7 Uninvolved factions **are not** to be harmed in any way while a war is active.  
+7.1.3 The council is used to solve issues that may arise in the world. (that do not need the attention of the admins)  
+7.1.4 Conflict between teams should preferably solved by the teams.  
+
+### 7.2 Wars
+7.2.1 If disputes can not be solved without violence there is the option to declare a war.  
+7.2.2 Teams can start official wars between each other, both partys must be willing.  
+7.2.3 The rules of war will be set by the teams and are if not changed the default server rules. (almost everything is possible, you can modify the rules of war **between** the factions that fight however you want).  
+Inform the admins beforehand of wars and rule changes in those wars.  
+7.2.4 Other teams may join the war *if* a team currently in the war wants them to. The admins also have to be  
+informed of this beforehand.  
+7.2.5 Uninvolved factions **are not** to be harmed in any way while a war is active. They are also not allowed to interfere in a war without officially joining.  
+7.2.6 Winning conditions or something similar are not needed but are a good way to not let the game run stale.  
+Those can then also be watched over by the admins.
 
 To create a team you need the following things:
 * at least two members in total
@@ -101,15 +109,20 @@ To create a team you need the following things:
 * the team name you want to show in chat
 * the team prefix (if needed)
 * the color you want the prefix to have
-* a designated leader of the team (this person can contact the admins to add new members). This leader may
-  change at any point if so decided by the team
+* a designated leader of the team (this person can contact the admins to add new members). This leader may change at any point if so decided by the team
 * other people who can add new members (if needed)
 
-## 8 Server/Client Modifications
+## 8 Server & Client Modifications
+### 8.1 Server Modification
+Other than performance enhancing plugins there are no notable vanilla experience altering plugins.  
+If any significantly altering plugins are installed you will be informed in some way.
+8.1.1 The only gamerule which was changed is "playersSleepingPercentage", which is set to 30.
 
-## 9 Plugins
-So far there are no notable server plugins installed wich would alter the vanilla experience.  
-There are also no planned plugins to be installed later.
+### 8.2 Client Modifications
+All Client Modifications are generally forbidden. Except the following.  
+8.2.1 Performance enhancing modifications. (Optifine, Sodium,...)  
+8.2.2 Schematic mods. (Schematica, Litematica,..)  
+8.2.2.1 Self building functions of those mods are not allowed.  
 
 ## 9 Discord
 The Discord server will be used to communicate important information.
