@@ -25,7 +25,7 @@ The admins reserve their right to change or adapt these rules at all time and in
 1.1 Have common sense  
 1.2 Treat others with respect  
 1.3 No Cheating  
-1.4 No Griefing 
+1.4 No Griefing  
 1.5 No Spamming  
 1.6 No stealing (random chests in the wild dont apply)
 1.7 No Bug abuse (Mojang intended bugs are allowed)  
@@ -54,7 +54,7 @@ This include chunk banners and lag machines.
 
 ## 4 Building Rules
 4.1 All buildings should either serve the purpose of beautifying the landscape or some important functionality.  
-4.2 There is now maximum build height or a limitation to the size of a building as long as rule 4.1 is not broken.  
+4.2 There is no maximum build height or a limitation to the size of a building as long as rule 4.1 is not broken.  
 4.3 Unfinished buildings that have not been continued for a while (and are ugly) will be removed after a warning.
 
 ## 5 The End
