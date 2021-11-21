@@ -1,11 +1,14 @@
 # Minecraft Server Rules/Information
-This minecraft server runs on Minecraft Java version 1.18., the Caves & Cliffs Part II update. The gamemode is set to survival.
-The difficulty is set to normal. Access to this server is limited (whitelist). The seed will **not** be revealed.
+This minecraft server runs on Minecraft Java version 1.18., the Caves & Cliffs Part II update. The gamemode is set to survival.  
+The difficulty is set to normal. Access to this server is limited (whitelist). Expanded inviting is allowed, but  
+the inviter is responsible for those invited. If you want to invite somebody just add them to the Discord and talkt to the  
+admins about it.  
+The seed will **not** be revealed.
 
-What follows are the rules for as said Minecraft Server.
-Breaking any of the following rules will be punished without hesitation.
-The severity of punishments depends on the severity of the actions.
-Punishments can be changed on a case by case basis or even inbetween if need be.
+What follows are the rules for as said Minecraft Server.  
+Breaking any of the following rules will be punished without hesitation.  
+The severity of punishments depends on the severity of the actions.  
+Punishments can be changed on a case by case basis or even inbetween if need be.  
 The admins (see list below) have the final say in giving out punishments.
 
 Admins:
@@ -15,17 +18,18 @@ Admins:
 
 If you have suggestions or complaints, feel free to contact one of the admins.
 
-Purposly finding and maliciously using loopholes in the rules is a punishable offense.
+Purposly finding and maliciously using loopholes in the rules is a punishable offense.  
 The admins reserve their right to change or adapt these rules at all time and interpret them as needed.
 
 ## 1 Basic Principles
 1.1 Have common sense.  
 1.2 Treat others with respect.  
-1.3 No Cheating.  
+1.3 No Cheating. (about modded clients see rules section 8)  
 1.4 No Griefing.  
 1.5 No Spamming.  
-1.6 **One** account per Player.  
-1.7 Mild trolling is welcome.
+1.6 Anarchial behaviour is not permitted.  
+1.7 **One** account per Player.  
+1.8 Mild trolling is welcome.
 
 ## 2 Behavior in the World
 2.1 Building private buildings on the world spawn (300 block radius) is not allowed.  
@@ -48,12 +52,12 @@ Any damage done by those mobs to other players belongings need to be fixed by th
 
 ## 4 Building Rules
 4.1 All buildings should either serve the purpose of beautifying the landscape or some important functionality.  
-4.2 There is now maximum build height or a limitation to the size of a building as long as rule 1.5.1 is not broken.  
+4.2 There is now maximum build height or a limitation to the size of a building as long as rule 4.1 is not broken.  
 4.3 Unfinished buildings that have not been continued for a while (and are ugly) will be removed after a warning.
 
 ## 5 The End
 The first time entering the End and the first fight against the Ender Dragon is going to be a planned community event.  
-This will most likely happen within the first week of server launch (minimum wait time 3 days after launch) at a time  
+This will most likely happen within the first week of server launch (minimum wait time 72 hours after launch) at a time  
 where most players (that want to participate) have time (most likely the weekend). The date will be set as a discord  
 event in the discord channel a few days before. Finding the stronghold and filling the portal is of course  
 allowed beforehand.
@@ -66,10 +70,12 @@ end gateways appear.
 members of the event.
 
 ## 6 PVP
-6.1 PVP is allowed as long as it doesnt break any of the following rules.  
-6.2 Do not kill people without reason. (stealing their resources after they were mining is **not** a reason)  
-6.3 Do not kill players that are afk-farming.  
-6.3 Rules of war (see rule section 3) may modify these rules in any way.
+6.1 PVP is allowed as long as it doesnt break any of the following rules.
+6.2 We are civilised people, so act like it. 
+6.3 Do not kill people without reason. (wanting to steal resources of someone who was mining is **not** a reason)  
+6.4 Do not kill players that are afk-farming.  
+6.5 Villages/Homes are safe areas until otherwise. A fight that has been started will not stop if either of the participants enter a safe area.
+6.6 Rules of war (see rule section 7) may modify these rules in any way.
 
 ## 7 Village/Faction "RP"
 There will be a very basic RP system. The purpose of this is making the server a bit more interesting.  
@@ -99,7 +105,13 @@ To create a team you need the following things:
   change at any point if so decided by the team
 * other people who can add new members (if needed)
 
-## 8 Discord
+## 8 Server/Client Modifications
+
+## 9 Plugins
+So far there are no notable server plugins installed wich would alter the vanilla experience.  
+There are also no planned plugins to be installed later.
+
+## 9 Discord
 The Discord server will be used to communicate important information.
 
 Important administrative information and the rules will be posted in #minecraft-server-118.  
@@ -108,7 +120,3 @@ The main chat about the server will be #minecraft-chat.
 Public coordinates for farms/villages/etc. can be shared in #minecraft-coordinates.  
 The #minecraft-srv-chat channel is a channel used to chat with people on the minecraft server.  
 Every message in minecraft is logged there and every message from discord is sent in the minecraft chat.
-
-## 5. Server/Client Modifications
-### 5.1 Server Modifications/Plugins
-### 5.2 Client Modifications
