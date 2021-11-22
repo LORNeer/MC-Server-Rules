@@ -1,7 +1,7 @@
 # Minecraft Server Rules/Information
 This minecraft server runs on Minecraft Java version 1.18., the Caves & Cliffs Part II update. The gamemode is set to survival.  
-The difficulty is set to normal. Access to this server is limited (whitelist). Expanded inviting is allowed, but  
-the inviter is responsible for those invited. If you want to invite somebody just add them to the Discord and talkt to the  
+The difficulty is set to normal. Access to this server is limited (whitelist). Extended inviting is allowed but  
+the inviter is responsible for those invited. If you want to invite somebody just add them to the Discord and talk to the  
 admins about it.  
 The seed will **not** be revealed.
 
@@ -14,7 +14,7 @@ The admins (see list below) have the final say in giving out punishments.
 Admins:
 * Hulka (DC: Bigboy#6823, MC: **Bigboy221100**)
 * Kalchi (DC: Thinker#0001, MC: **TheKalchi**)
-* Markus (DC: Laffey#3549, MC: **Makmex** / whore)
+* Markus (DC: Laffey#3549, MC: **Makmex**)
 
 If you have suggestions or complaints, feel free to contact one of the admins.
 
@@ -27,7 +27,7 @@ The admins reserve their right to change or adapt these rules at all time and in
 1.3 No Cheating  
 1.4 No Griefing  
 1.5 No Spamming  
-1.6 No stealing (random chests in the wild dont apply)
+1.6 No Stealing (random chests in the wild dont apply)
 1.7 No Bug abuse (Mojang intended bugs are allowed)  
 1.8 **One** account per Player  
 1.9 Mild trolling is welcome
@@ -38,29 +38,28 @@ The world spawn will be used for community/shared buildings.
 2.2 Players that are not interested in working/playing together  
 should build their homes with reasonable distance from one another.  
 2.3 Trees do not need to be replanted, but trees have to be completely mined.  
-2.4 Creeper holes have to be filled.  
-2.5 Farms that obviously belong to a player need to be replanted.  
-2.6 Pets that obviously belong to a player are not to be killed.  
-2.7 Hostile mobs that were summoned/brought by a player are to be killed by that player as fast as possible.  
+2.4 Farms that obviously belong to a player need to be replanted.  
+2.5 Animals that obviously belong to a player are not to be killed.  
+2.6 Hostile mobs that were summoned/brought by a player are to be killed by that player as fast as possible.  
 Any damage done by those mobs to other players belongings need to be fixed by the player that summoned them.
 
 ## 3 Farms/Redstone Contraptions
 3.1 All Farms/Redstone Contraptions are allowed, as long as they are not forbidden by the following rules.  
 3.2 Farms/Redstone Contraptions that lead to severe lags or destroy the playing experience of other players are forbidden.  
-This include chunk banners and lag machines.  
+This includes chunk banners and lag machines.  
 3.3 Farms/Redstone Contraptions that need a lot of performance and/or are used for special items should  
 (if possible) be built for/with the community.  
-3.4 AFK Farms/Redstone Contraptions are allowed, as long as rules 1.6 and 3.1 are not broken.
+3.4 AFK Farms/Redstone Contraptions are allowed, as long as rules 1.8 and 3.1 are not broken.
 
 ## 4 Building Rules
-4.1 All buildings should either serve the purpose of beautifying the landscape or some important functionality.  
+4.1 All buildings should either serve the purpose of beautifying the landscape or some other important functionality.  
 4.2 There is no maximum build height or a limitation to the size of a building as long as rule 4.1 is not broken.  
 4.3 Unfinished buildings that have not been continued for a while (and are ugly) will be removed after a warning.
 
 ## 5 The End
 The first time entering the End and the first fight against the Ender Dragon is going to be a planned community event.  
-This will most likely happen within the first week of server launch (minimum wait time 72 hours after launch) at a time  
-where most players (that want to participate) have time (most likely the weekend). The date will be set as a discord  
+This will most likely happen within the first two weeks of the server launch at a time  
+where most players (that want to participate) are available (most likely the weekend). The date will be set as a discord  
 event in the discord channel a few days before. Finding the stronghold and filling the portal is of course  
 allowed beforehand.
 
@@ -76,7 +75,7 @@ members of the event.
 6.2 We are civilised people, so act like it.  
 6.3 Do not kill people without reason. (wanting to steal resources of someone who was mining is **not** a reason)  
 6.4 Do not kill players that are afk-farming.  
-6.5 Villages/Homes are safe areas until otherwise. A fight that has been started will not stop if either of the participants enter a safe area.  
+6.5 Villages/Homes are safe areas until specified otherwise. A fight that has been started will not stop if either one of the participants enters a safe area.  
 6.6 Rules of war (see rule section 7.2) may modify these rules in any way.
 
 ## 7 Village/Faction "RP"
@@ -84,24 +83,13 @@ There will be a very basic RP system. The purpose of this is making the server a
 You will have the possibility of creating teams via the Minecraft teams feature.
 
 ### 7.1 General System
-7.1.1 Everyone can create Teams and everyone can join teams out of their free will.  
-Teams can then use the ``/teammsg`` command to chat within the team.  
-For further infos on how to create and join teams please look at the information below.  
-7.1.2 Teams with more than 5 members (or teams approved by the council) can send a representative to the "council".  
+7.1.1 Everyone can create Factions and everyone can join Factions out of their free will.  
+Factions can then use the ``/teammsg`` command to chat within the team.  
+For further infos on how to create and join Factions please look at the information below.  
+7.1.2 Factions can send a representative to the "council".  
 (who this representative is has to be reported to the admins beforehand)  
 7.1.3 The council is used to solve issues that may arise in the world. (that do not need the attention of the admins)  
-7.1.4 Conflict between teams should preferably solved by the teams.  
-
-### 7.2 Wars
-7.2.1 If disputes can not be solved without violence there is the option to declare a war.  
-7.2.2 Teams can start official wars between each other, both partys must be willing.  
-7.2.3 The rules of war will be set by the teams and are if not changed the default server rules. (almost everything is possible, you can modify the rules of war **between** the factions that fight however you want).  
-Inform the admins beforehand of wars and rule changes in those wars.  
-7.2.4 Other teams may join the war *if* a team currently in the war wants them to. The admins also have to be  
-informed of this beforehand.  
-7.2.5 Uninvolved factions **are not** to be harmed in any way while a war is active. They are also not allowed to interfere in a war without officially joining.  
-7.2.6 Winning conditions or something similar are not needed but are a good way to not let the game run stale.  
-Those can then also be watched over by the admins.
+7.1.4 Conflict between Factions should preferably be solved by the Factions.
 
 To create a team you need the following things:
 * at least two members in total
@@ -112,10 +100,21 @@ To create a team you need the following things:
 * a designated leader of the team (this person can contact the admins to add new members). This leader may change at any point if so decided by the team
 * other people who can add new members (if needed)
 
+### 7.2 Wars
+7.2.1 If disputes can not be solved without violence there is the option to declare a war.  
+7.2.2 Teams can start official wars between each other, **both partys** must be willing.  
+7.2.3 The rules of war will be set by the teams. The server rules will serve as the base. (almost everything is possible, you can modify the rules of war **between** the factions that fight however you want).  
+Inform the admins beforehand of wars and rule changes in those wars.  
+7.2.4 Other teams may join the war *if* a team currently in the war wants them to. The admins also have to be  
+informed of this beforehand.  
+7.2.5 Uninvolved factions **are not** to be harmed in any way while a war is active. They are also not allowed to directly interfere in a war without officially joining.  
+## TODO
+7.2.6 Winning conditions or something similar are not needed but are a good way to not let the game run stale.
+
 ## 8 Server & Client Modifications
 ### 8.1 Server Modification
 Other than performance enhancing plugins there are no notable vanilla experience altering plugins.  
-If any significantly altering plugins are installed you will be informed in some way.
+If any significantly altering plugins are installed in the future, you will be informed in some way.  
 8.1.1 The only gamerule which was changed is "playersSleepingPercentage", which is set to 30.
 
 ### 8.2 Client Modifications
