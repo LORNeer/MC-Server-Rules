@@ -1,8 +1,8 @@
 # Minecraft Server Rules/Information
 This minecraft server runs on Minecraft Java version 1.18., the Caves & Cliffs Part II update. The gamemode is set to survival.  
-The difficulty is set to normal. Access to this server is limited (whitelist). Extended inviting is allowed but  
-the inviter is responsible for those invited. If you want to invite somebody just add them to the Discord and tell
-them to message an admin to be whitelisted.  
+The difficulty is set to normal. Access to this server is limited (whitelist -> message the admins to get whitelisted).  
+Extended inviting is allowed but the inviter is responsible for those invited.  
+If you want to invite somebody just add them to the Discord and tell them to message an admin to be whitelisted.  
 The seed will **not** be revealed.
 
 Below you can find the rules for said Minecraft Server.  
